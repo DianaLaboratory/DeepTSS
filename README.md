@@ -8,7 +8,7 @@
 ##### Install Anaconda python:
 Download and install anaconda python [(installation guide)](https://docs.conda.io/projects/conda/en/latest/user-guide/install/linux.html)
 
-##### Install conda enviroment using the .yml file provided.
+##### Install conda enviroment using the DeepTSS.yml file provided.
 ```
 conda env create -f DeepTSS.yml
 conda activate DeepTSS
